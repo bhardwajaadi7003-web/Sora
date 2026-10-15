@@ -1,0 +1,6 @@
+{
+  "name": "SORA Aerocity — A Journey Above the Clouds",
+  "description": "Delhi's premier rooftop Pan-Asian sky lounge at Worldmark 3, Aerocity. Authentic Japanese Robatayaki, premium sushi, handcrafted omakase cocktails, and breathtaking runway views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "/",
+  "name": "SORA Aerocity — A Journey Above the Clouds",
+  "short_name": "SORA",
+  "description": "Delhi's premier rooftop Pan-Asian sky lounge at Worldmark 3, Aerocity. Authentic Japanese Robatayaki, sushi, and runway views.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#121212",
+  "background_color": "#121212",
+  "categories": ["food", "lifestyle", "travel"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "SORA Aerocity Rooftop Sky Lounge"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "SORA Aerocity Menu and Table Reservation"
+    }
+  ],
+  "prefer_related_applications": false
+}
